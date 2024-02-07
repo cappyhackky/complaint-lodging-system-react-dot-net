@@ -97,14 +97,26 @@ The frontend of the application is built using React. It provides a user-friendl
 
    The React application will be served at `http://localhost:3000`.
 
+## User Interface
+- Admin Login
+![adminlogin](/img/AdminLogin.png)
+- Complaint Status
+![Complaint Status](/img/ComplaintStatus.png)
+- Hostel Manager Complaint
+![Hostel Manager Complaint](/img/HostelManComp.png)
+- Hostel Student Complaint
+![Hostel Student Complaint](/img/HostelStudComp.png)
+- House Complaint
+![House Complaint](/img/HouseComp.png)
+- JE Dashboard
+![Dashboard](/img/JEDash.png)
+- Register JE
+![Register JE](/img/RegisterJE.png)
+- Super Admin Dashboard
+![Super Admin Dashboard](/img/SuperAdmin.png)
+- View Complaint
+![View Complaint](/img/ViewComplaint.png)
+
 ## Author
 
 - Zeeshan Saifi
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the content according to your specific project details and requirements.

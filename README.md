@@ -92,7 +92,7 @@ The frontend of the application is built using React. It provides a user-friendl
 
 4. **Start the Development Server:**
    ```bash
-   npm start
+   npm run dev
    ```
 
    The React application will be served at `http://localhost:3000`.

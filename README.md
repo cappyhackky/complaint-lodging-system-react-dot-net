@@ -31,7 +31,7 @@ The backend of the application is built using ASP.NET Web API. It provides endpo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/cappyhackky/complaint-lodging-system-react-dot-net.git
    ```
 
 2. **Navigate to the Backend Directory:**
@@ -77,7 +77,7 @@ The frontend of the application is built using React. It provides a user-friendl
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/cappyhackky/complaint-lodging-system-react-dot-net.git
    ```
 
 2. **Navigate to the Frontend Directory:**
